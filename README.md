@@ -11,6 +11,7 @@ The research project has been published in vehicular communication, Elsevier (IF
 
 
 # Citing this work
+If you are using our implementation, you are encouraged to cite [our paper](https://www.sciencedirect.com/science/article/pii/S221420962030053X).
 ``` 
 @article{mughal2020cooperative,
   title={Cooperative resource management for C-V2I communications in a dense urban environment},
