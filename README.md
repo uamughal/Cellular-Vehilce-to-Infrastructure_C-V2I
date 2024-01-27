@@ -11,6 +11,7 @@ The research project has been published in vehicular communication, Elsevier (IF
 
 
 # Citing this work
+``` 
 @article{mughal2020cooperative,
   title={Cooperative resource management for C-V2I communications in a dense urban environment},
   author={Mughal, Umair Ahmad and Xiao, Jiao and Ahmad, Ishtiaq and Chang, KyungHi},
@@ -20,3 +21,4 @@ The research project has been published in vehicular communication, Elsevier (IF
   year={2020},
   publisher={Elsevier}
 }
+``` 
