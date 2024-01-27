@@ -1,4 +1,4 @@
-# cellular-vehilce-to-infrastructure-C-V2I
+# Cellular-Vehilce-to-Infrastructure-C-V2I
 Cooperative resource management for C-V2I communications in a dense urban environment, Vehicular Communications, 2020
 
 This paper provides how cellular communication can be used for V2X communication. It provides the complete implementation of V2I communication according to the 3GPP Rel. 14 and 15. 
